@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "winmsgbox"
 version = "1.0.0"
 description = "A simple wrapper for Windows' MessageBoxW in Python"
+urls = { "Homepage" = "https://github.com/luluwaffless/winmsgbox" }
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "luluwaffless" }]
